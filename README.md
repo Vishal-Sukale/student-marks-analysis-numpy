@@ -62,6 +62,10 @@ Analyzing student performance manually can be time-consuming and error-prone. Th
 ## Conclusion
 This project demonstrates how NumPy simplifies student performance analysis using efficient array operations. It provides accurate and fast insights with minimal code.
 
+## Author
+Vishal Sukale
+
+
 ## Future Improvements
 - Add data visualization  
 - Use real dataset (CSV)  
